@@ -58,3 +58,4 @@ ntlm, ldap, http, smtp, snmp, telnet, ftp, kerberos, dhcpv6, llmnr
 # Future Enhancements
 
 - Implement remote logging to send captured data to a listening server.
+- Implement python2 version for backward compatibility.
